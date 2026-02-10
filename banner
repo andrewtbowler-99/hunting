@@ -1,0 +1,6 @@
+<div style="position: relative; width: 1000px; height: 200px;">
+  <img src="banner.jpg" alt="Hunting Banner" style="width:1000px; height:200px;">
+  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; margin: 0; font-size:36px;">
+    Hunting Adventures
+  </h1>
+</div>
