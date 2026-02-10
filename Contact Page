@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hunting Adventures: Contact</title>
+</head>
+<body>
+
+<!-- Banner -->
+<div style="position: relative; width: 1000px; height: 200px;">
+  <img src="banner.jpg" alt="Hunting Banner" style="width:1000px; height:200px;">
+  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; margin: 0; font-size:36px;">
+    Hunting Adventures
+  </h1>
+</div>
+
+<!-- Navigation -->
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="about.html">About</a></li>
+  <li><a href="contact.html">Contact</a></li>
+</ul>
+<hr>
+
+<h1>Contact Us</h1>
+<p>If you have questions about hunting techniques, safety, or gear, reach out to us. We’re happy to help hunters of all experience levels.</p>
+<hr>
+
+<p>Visit <a href="https://www.usu.edu" target="_blank">USU Website</a></p>
+<p>&copy; 2026 Hunting Adventures</p>
+<p>Email us at <a href="mailto:info@huntingadventures.com">info@huntingadventures.com</a></p>
+
+</body>
+</html>
